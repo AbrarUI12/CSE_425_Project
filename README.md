@@ -50,8 +50,4 @@ including **multimodal fusion of audio and lyrics** and **conditional β-VAEs**.
 
 ---
 
-## ⚙️ How to Reproduce
 
-### 1️⃣ Feature Extraction
-```bash
-python scripts/05_extract_mels.py
